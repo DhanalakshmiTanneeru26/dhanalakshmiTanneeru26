@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on pen-source projects related to education or environmental sustainability.
 - 🤔 I’m looking for help with Understanding advanced concepts in database management.
 - 💬 Ask me about My journey into programming and tips for beginners!
-- 📫 How to reach me: Feel free to drop me an email at dhanalakshmi810662.email@example.com.
+- 📫 How to reach me dhanalakshmi810662@gmail.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I'm also passionate about photography and love capturing moments in nature!😊
 
