@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **DhanalakshmiTanneeru26/dhanalakshmiTanneeru26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  I'm also passionate about photography and love capturing moments in nature!
 
--->
+
